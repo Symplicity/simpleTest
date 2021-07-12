@@ -16,6 +16,8 @@ Searching Google is allowed.
 ## Requirements:
 
 You'll need:
+- Git
+- Composer
 - Working local MySQL server
 - Working local PHP 7.x server (the built in PHP server will do).
 ##### Suggestions of local environments out of the box:
