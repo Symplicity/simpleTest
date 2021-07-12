@@ -16,15 +16,15 @@ Consider a scenario where you are building an application where other developers
 
 ## Test Requirements:
 
-- Implement feature to add a new category.
+- [ ] Implement feature to add a new category.
 
-- Display the category name in the product list.
+- [ ] Display the category name in the product list.
 
-- Add to category listing the number of linked products in each.
+- [ ] Add to category listing the number of linked products in each.
 
-- Ensure that a category can only be deleted if it has no linked products.
+- [ ] Ensure that a category can only be deleted if it has no linked products.
 
-- Ensure the operation to update the product.
+- [ ] Ensure the operation to update the product.
 
 ---
 
