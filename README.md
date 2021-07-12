@@ -2,27 +2,27 @@
 
 Hello, thanks for your interest in joining our team.
 
-The purpose of this test is to verify your coding and architecture skills. For this you will get a simple problem where you can show your development techniques.
+The purpose of this test is to verify your coding and architecture skills and evaluate your line of thought during the test.
 
-We encourage you to overdo the solution a bit to show what you are capable of.
+Try to work as you would on a regular day and narrate as much as possible your intentions when writing the code.
 
-Consider a scenario where you are building an application where other developers will need to work and maintain that application over time.
+Searching Google is allowed.
 
 ## Instructions
 
 - Clone this repository.
 - Import the store.sql file to database.
-- Develop the application.
 
-## Environment Requirements:
+## Requirements:
 
+You'll need:
 - Working local MySQL server
 - Working local PHP 7.x server (the built in PHP server will do).
 ##### Suggestions of local environments out of the box:
 - [XAMPP](https://www.apachefriends.org/pt_br/index.html)
 - [Laragon](https://laragon.org/download/) (Windows Only)
 
-## Test Requirements:
+## Test Tasks:
 
 - [ ] Implement feature to add a new category.
 
