@@ -14,6 +14,14 @@ Consider a scenario where you are building an application where other developers
 - Import the store.sql file to database.
 - Develop the application.
 
+## Environment Requirements:
+
+- Working local MySQL server
+- Working local PHP 7.x server (the built in PHP server will do).
+##### Suggestions of local environments out of the box:
+- [XAMPP](https://www.apachefriends.org/pt_br/index.html)
+- [Laragon](https://laragon.org/download/) (Windows Only)
+
 ## Test Requirements:
 
 - [ ] Implement feature to add a new category.
