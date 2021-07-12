@@ -10,7 +10,7 @@ Consider a scenario where you are building an application where other developers
 
 ## Instructions
 
-- Dowload this repository.
+- Clone this repository.
 - Import the store.sql file to database.
 - Develop the application.
 
