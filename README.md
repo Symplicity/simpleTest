@@ -4,7 +4,7 @@ Hello, thanks for your interest in joining our team.
 
 The purpose of this test is to verify your coding and architecture skills and evaluate your line of thought during the test.
 
-Try to work as you would on a regular day and narrate your intentions as much as possible to your evaluators when adding/modifying code.
+Try to work as you would on a regular day and narrate your intentions as you add or modify code.
 
 Searching Google is allowed.
 
